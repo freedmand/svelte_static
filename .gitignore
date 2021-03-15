@@ -1,0 +1,10 @@
+node_modules
+.*
+!.gitignore
+
+# Local Netlify folder
+.netlify
+
+# Build
+build
+public/index.html
