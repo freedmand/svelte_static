@@ -20,12 +20,14 @@
 		"imagemin-gm": "^2.0.2",
 		"imagemin-jpegtran": "^7.0.0",
 		"live-server": "^1.2.1",
+		"node-sass": "^5.0.0",
 		"posthtml": "^0.15.1",
 		"posthtml-remove-attributes": "^1.0.0",
 		"rollup": "^2.38.5",
 		"rollup-plugin-css-only": "^3.1.0",
 		"rollup-plugin-execute": "^1.1.1",
 		"rollup-plugin-svelte": "^7.1.0",
-		"svelte": "^3.32.3"
+		"svelte": "^3.32.3",
+		"svelte-preprocess": "^4.6.9"
 	}
 }
